@@ -3,7 +3,7 @@
 ![Front-end Developer](https://i.postimg.cc/QtVJFwpd/Mamun-ahmed-2.png)
 
 # 💫 About Me:
-I am passionate Front-end Web Developer with solid skills HTML5, CSS3, Tailwind, Bootstrap, JavaScript and React JS. I also have Basic Back-end knowledge in Node.js, Express.js and MongoDB. i have build some Front-end Project and Some MERN Project. And always looking forward to making something new. And i am dedicated to continuously improving my skills and staying up-to-date with the latest tech.<br><br>Skills: JavaScript / REACT / HTML / CSS / Tailwind / Firebase / Node.JS / Express.JS / MongoDB / JWT<br><br>🔭 I’m currently working on my own projects with my team<br>🌱 I’m currently learning JavaScript | Node.JS | Express.JS |<br>💬 Ask me about Web Development
+I am passionate Front-end Web Developer with solid skills HTML5, CSS3, Tailwind, Bootstrap, JavaScript and React JS. I also have Basic Back-end knowledge in Node.js, Express.js and MongoDB. i have build some Front-end Project and Some MERN Project. And always looking forward to making something new. And i am dedicated to continuously improving my skills and staying up-to-date with the latest tech.<br><br>Skills: JavaScript / REACT / HTML / CSS / Tailwind / Firebase / Node.JS / Express.JS / MongoDB / JWT<br><br>🔭 I’m currently working on my own projects and with my team<br>🌱 I’m currently learning JavaScript | Node.JS | Express.JS |<br>💬 Ask me about Web Development
 
 
 ## 🌐 Socials:
